@@ -1,6 +1,4 @@
-// prof sono stato 2 ore e mezza a passare da flowgorithm a scriverlo in c++ ho sonno aaaaaa
-//ho imparato ad usare while, if, else e rand()
-// MODIFICA!! ho metto srand(time(NULL)) perche senno ogni volta che runnavo il codice generava sempre gli stessi numeri
+//scritto il 15 ottobre 2026, ho iniziato cpp a scuola circa 3 settimane fa
 
 #include <iostream>
 #include <random>
